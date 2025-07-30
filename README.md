@@ -1,1 +1,2 @@
 # Seed-To-Success-Crop-Scheduling-and-Climate-Aware-Farming-Portal
+A web platform that helps farmers plan optimal crop sequences.	Integrated Random Forest Regression to predict monthly climate data and generate profit, cultivation cost and market price driven crop schedules.Implemented fertilizer guidance and real-time weather features, along with soil compatibility checks using location mapping.Included user-prioritized crop boosting and market trend analysis to improve decision-making.
